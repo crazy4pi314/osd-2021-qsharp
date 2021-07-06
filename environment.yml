@@ -1,0 +1,13 @@
+name: oqs-2021-qsharp
+channels:
+- conda-forge
+- quantum-engineering 
+dependencies:
+- notebook
+- numpy
+- ipykernel
+- qsharp==0.18.2106148911
+- pip
+- matplotlib
+- pip:
+  - RISE
