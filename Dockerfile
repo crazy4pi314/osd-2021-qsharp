@@ -14,5 +14,10 @@ RUN pip install cython \
                 numpy \
                 scipy && \
     pip install qutip RISE matplotlib
+# Make sure the contents of our repo are in ${HOME}.
+# These steps are required for use on mybinder.org.
+
+COPY . ${HOME}
+RUN chown -R ${USER} ${HOME}
 
 USER ${USER}

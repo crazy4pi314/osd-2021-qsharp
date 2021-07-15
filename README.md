@@ -1,6 +1,6 @@
 # osd-2021-qsharp
 
-> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/osd-2021-qsharp/main?filepath=presentation.ipynb)
+> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/osd-2021-qsharp/main?filepath=demo.ipynb)
 > 
 
 
