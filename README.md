@@ -12,6 +12,11 @@ In this workshop, we will cover what in the heck quantum computing actually is, 
 
 ## What's here?
 
+- [`slides.pdf`](./slides.pdf): The slides from the beginning of the workshop
+- [`demo.ipynb`](./demo.ipynb): The interactive demo code and slides in a Jupyter notebook
+- [`Dockerfile`](./Dockerfile): A container specification to run then demo in
+- [`environment.yml`](./environment.yml): A conda environment file so you can run the sample code locally
+- [`.iqsharp-config.json`](.iqsharp-config.json): A preference file used to change the default display of information in the demo notebook
 
 ## 👩‍💻 Resources 👩‍💻
 
