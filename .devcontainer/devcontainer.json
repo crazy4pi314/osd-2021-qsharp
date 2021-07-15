@@ -1,8 +1,5 @@
 {
-    "dockerFile": "Dockerfile",
-    "containerEnv": {
-        "IQSHARP_HOSTING_ENV": "crazy4pi314/osd-2021-qsharp"
-    },
+    "dockerFile": "../Dockerfile",
     "extensions": [
         "quantum.quantum-devkit-vscode",
         "ms-python.python"

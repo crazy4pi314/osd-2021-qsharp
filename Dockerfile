@@ -1,5 +1,7 @@
 FROM mcr.microsoft.com/quantum/iqsharp-base:0.18.2106148911
 
+# Mark that this Dockerfile is used with the samples repository.
+ENV IQSHARP_HOSTING_ENV=crazy4pi314/osd-2021-qsharp
 USER root
 # Install additional system packages from apt.
 RUN apt-get -y update && \
